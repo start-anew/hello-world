@@ -1,2 +1,2 @@
 # hello-world
-This is my first attempt at learning GitHub via internal turtorial. Lets see how it goes!
+This is my first attempt at learning GitHub via internal tutorial. Lets see how it goes!
